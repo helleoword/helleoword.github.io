@@ -2,74 +2,80 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://helleoword.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-15T20:16:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/newnewnew/</loc>
+    <lastmod>2024-10-15T20:16:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2024-10-15T20:16:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/myfirstblog/</loc>
     <lastmod>2024-10-15T19:27:34+08:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/myfirstblog/</loc>
+    <loc>http://localhost:1313/myfirstblog/test/</loc>
     <lastmod>2024-10-15T19:27:34+08:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/myfirstblog/test/</loc>
-    <lastmod>2024-10-15T19:27:34+08:00</lastmod>
-  </url><url>
-    <loc>https://helleoword.github.io/client-work/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/client-work/ztos/</loc>
+    <loc>http://localhost:1313/project/ztos/</loc>
     <lastmod>2024-08-25T10:23:39+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/client-work/zoo/</loc>
+    <loc>http://localhost:1313/project/zoo/</loc>
     <lastmod>2024-08-25T10:23:08+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/client-work/kanba/</loc>
+    <loc>http://localhost:1313/project/kanba/</loc>
     <lastmod>2024-08-25T10:22:34+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/client-work/goldline/</loc>
+    <loc>http://localhost:1313/project/goldline/</loc>
     <lastmod>2024-08-25T10:21:48+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/client-work/earth2.0/</loc>
+    <loc>http://localhost:1313/project/earth2.0/</loc>
     <lastmod>2024-08-25T10:17:12+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/client-work/asgardia/</loc>
+    <loc>http://localhost:1313/project/asgardia/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/projects/</loc>
+    <loc>http://localhost:1313/projects/handwritten-digit-recognition-based-on-softmax/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/projects/radity-finance-uikit/</loc>
+    <loc>http://localhost:1313/projects/handwritten-digit-recognition-for-digits-0-and-1-based-on-logistic-regression/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/projects/robo-advisor/</loc>
+    <loc>http://localhost:1313/projects/house-price-prediction-based-on-linear-regression-algorithm/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/projects/swiss-fintech/</loc>
+    <loc>http://localhost:1313/projects/image-compression-processing-experiment/</loc>
     <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/blog/</loc>
-    <lastmod>2024-06-24T14:38:33+02:00</lastmod>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2024-08-25T09:53:42+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/blog/sample-3/</loc>
-    <lastmod>2024-06-24T14:38:33+02:00</lastmod>
+    <loc>http://localhost:1313/research/sample/</loc>
+    <lastmod>2023-09-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/blog/sample-2/</loc>
-    <lastmod>2024-06-23T14:38:33+02:00</lastmod>
+    <loc>http://localhost:1313/research/</loc>
+    <lastmod>2023-09-21T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/blog/sample/</loc>
-    <lastmod>2024-06-21T14:38:33+02:00</lastmod>
+    <loc>http://localhost:1313/research/sample-2/</loc>
+    <lastmod>2023-06-23T14:38:33+02:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/experience/</loc>
+    <loc>http://localhost:1313/experience/</loc>
     <lastmod>2007-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/experience/job-1/</loc>
+    <loc>http://localhost:1313/experience/job-1/</loc>
     <lastmod>2007-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/experience/job-2/</loc>
+    <loc>http://localhost:1313/experience/job-2/</loc>
     <lastmod>2007-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/experience/job-3/</loc>
+    <loc>http://localhost:1313/experience/job-3/</loc>
     <lastmod>2007-12-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://helleoword.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://helleoword.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

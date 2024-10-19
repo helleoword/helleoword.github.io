@@ -2,123 +2,116 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://helleoword.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Oct 2024 19:27:34 +0800</lastBuildDate>
-    <atom:link href="https://helleoword.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Oct 2024 20:16:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newnewnew</title>
+      <link>http://localhost:1313/post/newnewnew/</link>
+      <pubDate>Tue, 15 Oct 2024 20:16:19 +0800</pubDate>
+      <guid>http://localhost:1313/post/newnewnew/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Test</title>
-      <link>https://helleoword.github.io/myfirstblog/test/</link>
+      <link>http://localhost:1313/myfirstblog/test/</link>
       <pubDate>Tue, 15 Oct 2024 19:27:34 +0800</pubDate>
-      <guid>https://helleoword.github.io/myfirstblog/test/</guid>
+      <guid>http://localhost:1313/myfirstblog/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Ztos</title>
-      <link>https://helleoword.github.io/client-work/ztos/</link>
+      <link>http://localhost:1313/project/ztos/</link>
       <pubDate>Sun, 25 Aug 2024 10:23:39 +0200</pubDate>
-      <guid>https://helleoword.github.io/client-work/ztos/</guid>
+      <guid>http://localhost:1313/project/ztos/</guid>
       <description></description>
     </item>
     <item>
       <title>Zoo</title>
-      <link>https://helleoword.github.io/client-work/zoo/</link>
+      <link>http://localhost:1313/project/zoo/</link>
       <pubDate>Sun, 25 Aug 2024 10:23:08 +0200</pubDate>
-      <guid>https://helleoword.github.io/client-work/zoo/</guid>
+      <guid>http://localhost:1313/project/zoo/</guid>
       <description></description>
     </item>
     <item>
       <title>Kanba</title>
-      <link>https://helleoword.github.io/client-work/kanba/</link>
+      <link>http://localhost:1313/project/kanba/</link>
       <pubDate>Sun, 25 Aug 2024 10:22:34 +0200</pubDate>
-      <guid>https://helleoword.github.io/client-work/kanba/</guid>
+      <guid>http://localhost:1313/project/kanba/</guid>
       <description></description>
     </item>
     <item>
       <title>Goldline</title>
-      <link>https://helleoword.github.io/client-work/goldline/</link>
+      <link>http://localhost:1313/project/goldline/</link>
       <pubDate>Sun, 25 Aug 2024 10:21:48 +0200</pubDate>
-      <guid>https://helleoword.github.io/client-work/goldline/</guid>
+      <guid>http://localhost:1313/project/goldline/</guid>
       <description></description>
     </item>
     <item>
       <title>Earth 2.0</title>
-      <link>https://helleoword.github.io/client-work/earth2.0/</link>
+      <link>http://localhost:1313/project/earth2.0/</link>
       <pubDate>Sun, 25 Aug 2024 10:17:12 +0200</pubDate>
-      <guid>https://helleoword.github.io/client-work/earth2.0/</guid>
+      <guid>http://localhost:1313/project/earth2.0/</guid>
       <description></description>
     </item>
     <item>
       <title>Asgardia</title>
-      <link>https://helleoword.github.io/client-work/asgardia/</link>
+      <link>http://localhost:1313/project/asgardia/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://helleoword.github.io/client-work/asgardia/</guid>
+      <guid>http://localhost:1313/project/asgardia/</guid>
       <description></description>
     </item>
     <item>
-      <title>Radity Finance - UI Kit</title>
-      <link>https://helleoword.github.io/projects/radity-finance-uikit/</link>
+      <title>Handwritten digit recognition based on Softmax</title>
+      <link>http://localhost:1313/projects/handwritten-digit-recognition-based-on-softmax/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://helleoword.github.io/projects/radity-finance-uikit/</guid>
-      <description>&lt;p&gt;We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/handwritten-digit-recognition-based-on-softmax/</guid>
+      <description>&lt;p&gt;The objective of this task is to apply the Softmax function for the classification of handwritten digit data. We utilized gradient descent as the optimization algorithm to iteratively update the model parameters, and cross-entropy loss as the metric to assess the performance of the model. After training, we visualized the results of the iterative process and evaluated the model&amp;rsquo;s performance on test images. The model was trained for 2000 iterations, achieving a test accuracy of 93.4%. The implementation was carried out in Python.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Robo Advisor</title>
-      <link>https://helleoword.github.io/projects/robo-advisor/</link>
+      <title>Handwritten digit recognition for digits 0 and 1 based on logistic regression</title>
+      <link>http://localhost:1313/projects/handwritten-digit-recognition-for-digits-0-and-1-based-on-logistic-regression/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://helleoword.github.io/projects/robo-advisor/</guid>
-      <description>&lt;p&gt;Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/handwritten-digit-recognition-for-digits-0-and-1-based-on-logistic-regression/</guid>
+      <description>&lt;p&gt;We utilized the Sigmoid function to estimate the probabilities for handwritten digit classification and employed Binary Cross-Entropy Loss (BCELoss) to evaluate the model&amp;rsquo;s performance. Gradient descent was used as the optimization method for iteratively updating the model&amp;rsquo;s parameters. After training, the model was tested on a set of images, achieving a test accuracy of 100%. The entire implementation was done in Python.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Swiss Fintech Website</title>
-      <link>https://helleoword.github.io/projects/swiss-fintech/</link>
+      <title>House price prediction based on linear regression algorithm</title>
+      <link>http://localhost:1313/projects/house-price-prediction-based-on-linear-regression-algorithm/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://helleoword.github.io/projects/swiss-fintech/</guid>
-      <description>&lt;p&gt;The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/house-price-prediction-based-on-linear-regression-algorithm/</guid>
+      <description>&lt;p&gt;We formulated a regularized loss function to evaluate the model&amp;rsquo;s performance in predicting house prices, and used batch gradient descent for iterative optimization. The predicted price curve was then compared with the actual house prices to assess the model&amp;rsquo;s accuracy. Overall, the predictions were highly accurate. The final implementation was done in Python.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sample blog content 3</title>
-      <link>https://helleoword.github.io/blog/sample-3/</link>
-      <pubDate>Mon, 24 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>https://helleoword.github.io/blog/sample-3/</guid>
-      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+      <title>Image Compression Processing Experiment</title>
+      <link>http://localhost:1313/projects/image-compression-processing-experiment/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/image-compression-processing-experiment/</guid>
+      <description>&lt;p&gt;We employed two techniques for image compression:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;&#x9;1. SVD (Singular Value Decomposition): We applied SVD to compress images by decomposing the matrix formed from the image&#39;s RGB values into singular values, U, and V matrices. After reconstruction, we adjusted the ratio of singular values to observe its effect on image quality. The results demonstrated that by retaining 20% of the singular values, we could preserve most of the essential image information, yielding a satisfactory visual outcome.&#xA;&#x9;&#xA;&#x9;2. PCA (Principal Component Analysis): We used PCA for image compression by standardizing the image matrix and selecting principal components that capture the majority of the variance. By ignoring components that contribute less, we achieved compression. Our results indicated that retaining $50$ principal components produced a satisfactory image quality.&#xA;&#x9;&#xA;&#x9;The entire implementation was carried out in Python.&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     <item>
-      <title>Sample blog content 2</title>
-      <link>https://helleoword.github.io/blog/sample-2/</link>
-      <pubDate>Sun, 23 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>https://helleoword.github.io/blog/sample-2/</guid>
-      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+      <title>Fault-tolerant Hamiltonicity and two-disjoint-cycle-cover vertex-pancyclicity of the simplified shuffle-cube</title>
+      <link>http://localhost:1313/research/sample/</link>
+      <pubDate>Thu, 21 Sep 2023 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/research/sample/</guid>
+      <description>&lt;p&gt;A Hamiltonian graph $G$ $=$ $(V,E)$ is $k$-fault-tolerant Hamiltonian if $G-F$ remains Hamiltonian for every $F\subset V(G)\cup E(G)$ with $|F|\leqslant k$. A graph $G$ is $k$-fault-tolerant Hamiltonian-connected if $G-F$ remains Hamiltonian-connected for every $F\subset V(G)\cup E(G)$ with $|F|\leqslant k$. A graph $G$ is two-disjoint-cycle-cover vertex $[r_{1},r_{2}]$-pancyclic if for any two distinct vertices $u,v\in V(G)$ and any integer $l$ ranging from $r_1$ to $r_2$, there are two vertex-disjoint cycles $C_1$ and $C_2$ in $G$ such that $C_1$ contains $u$ with $|V (C_{1})| = l$ and $C_2$ contains $v$ with $|V (C_{2})| = |V (G)| - l$. The simplified shuffle-cube, which is a variant of the shuffle-cube and is superior to shuffle-cube in terms of vertex-transitivity. In this paper, we show that the $n$-dimensional simplified shuffle-cube is $(n-2)$-fault-tolerant Hamiltonian, $(n-3)$-fault-tolerant Hamiltonian-connected, as well as two-disjoint-cycle-cover vertex $[3,2^{\frac{3n-2}{4}}]$-pancyclic for $n\geqslant 6$.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sample blog content 1</title>
-      <link>https://helleoword.github.io/blog/sample/</link>
-      <pubDate>Fri, 21 Jun 2024 14:38:33 +0200</pubDate>
-      <guid>https://helleoword.github.io/blog/sample/</guid>
-      <description>&lt;p&gt;Sample blog content. Like a lorem ipsum but saying something more interesting.&lt;/p&gt;&#xA;&lt;p&gt;hello hello&lt;/p&gt;&#xA;&lt;p&gt;Welcome to the world of &amp;ldquo;Content Ipsum,&amp;rdquo; the fresh alternative to the classic lorem ipsum. It&amp;rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.&lt;/p&gt;</description>
+      <title>The vertex-pancyclicity of the simplified shuffle-cube and the vertex-bipancyclicity of the balanced shuffle-cube</title>
+      <link>http://localhost:1313/research/sample-2/</link>
+      <pubDate>Fri, 23 Jun 2023 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/research/sample-2/</guid>
+      <description>&lt;p&gt;A graph $G$ $=$ $(V,E)$ is vertex-pancyclic if for every vertex $u$ and any integer $l$ ranging from $3$ to $|V|$, $G$ contains a cycle $C$ of length $l$ such that $u$ is on $C$. A bipartite graph $G$ $=$ $(V,E)$ is vertex-bipancyclic if for every vertex $u$ and any even integer $l$ ranging from $4$ to $|V|$, $G$ contains a cycle $C$ of length $l$ such that $u$ is on $C$. The simplified shuffle-cube and the balanced shuffle-cube, which are two variants of the shuffle-cube and are superior to shuffle-cube in terms of vertex-transitivity. In this paper, we show that the $n$-dimensional simplified shuffle-cube is vertex-pancyclic for $n\geqslant 6$, and the $n$-dimensional balanced shuffle-cube is vertex-bipancyclic for $n\geqslant 2$.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Job #1</title>
-      <link>https://helleoword.github.io/experience/job-1/</link>
+      <link>http://localhost:1313/experience/job-1/</link>
       <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>https://helleoword.github.io/experience/job-1/</guid>
+      <guid>http://localhost:1313/experience/job-1/</guid>
       <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;The beginning of a great career.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Job #2</title>
-      <link>https://helleoword.github.io/experience/job-2/</link>
-      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>https://helleoword.github.io/experience/job-2/</guid>
-      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Continuing the quest.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Job #3</title>
-      <link>https://helleoword.github.io/experience/job-3/</link>
-      <pubDate>Sat, 01 Dec 2007 00:00:00 +0100</pubDate>
-      <guid>https://helleoword.github.io/experience/job-3/</guid>
-      <description>&lt;h3 id=&#34;fixing-the-world-one-byte-at-a-time&#34;&gt;Fixing the world, one byte at a time&lt;/h3&gt;&#xA;&lt;p&gt;Hostile takeover - who is the boss now!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

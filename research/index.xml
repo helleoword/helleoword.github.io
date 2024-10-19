@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches on </title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Researches on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Sep 2023 14:38:33 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fault-tolerant Hamiltonicity and two-disjoint-cycle-cover vertex-pancyclicity of the simplified shuffle-cube</title>
+      <link>http://localhost:1313/research/sample/</link>
+      <pubDate>Thu, 21 Sep 2023 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/research/sample/</guid>
+      <description>&lt;p&gt;A Hamiltonian graph $G$ $=$ $(V,E)$ is $k$-fault-tolerant Hamiltonian if $G-F$ remains Hamiltonian for every $F\subset V(G)\cup E(G)$ with $|F|\leqslant k$. A graph $G$ is $k$-fault-tolerant Hamiltonian-connected if $G-F$ remains Hamiltonian-connected for every $F\subset V(G)\cup E(G)$ with $|F|\leqslant k$. A graph $G$ is two-disjoint-cycle-cover vertex $[r_{1},r_{2}]$-pancyclic if for any two distinct vertices $u,v\in V(G)$ and any integer $l$ ranging from $r_1$ to $r_2$, there are two vertex-disjoint cycles $C_1$ and $C_2$ in $G$ such that $C_1$ contains $u$ with $|V (C_{1})| = l$ and $C_2$ contains $v$ with $|V (C_{2})| = |V (G)| - l$. The simplified shuffle-cube, which is a variant of the shuffle-cube and is superior to shuffle-cube in terms of vertex-transitivity. In this paper, we show that the $n$-dimensional simplified shuffle-cube is $(n-2)$-fault-tolerant Hamiltonian, $(n-3)$-fault-tolerant Hamiltonian-connected, as well as two-disjoint-cycle-cover vertex $[3,2^{\frac{3n-2}{4}}]$-pancyclic for $n\geqslant 6$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The vertex-pancyclicity of the simplified shuffle-cube and the vertex-bipancyclicity of the balanced shuffle-cube</title>
+      <link>http://localhost:1313/research/sample-2/</link>
+      <pubDate>Fri, 23 Jun 2023 14:38:33 +0200</pubDate>
+      <guid>http://localhost:1313/research/sample-2/</guid>
+      <description>&lt;p&gt;A graph $G$ $=$ $(V,E)$ is vertex-pancyclic if for every vertex $u$ and any integer $l$ ranging from $3$ to $|V|$, $G$ contains a cycle $C$ of length $l$ such that $u$ is on $C$. A bipartite graph $G$ $=$ $(V,E)$ is vertex-bipancyclic if for every vertex $u$ and any even integer $l$ ranging from $4$ to $|V|$, $G$ contains a cycle $C$ of length $l$ such that $u$ is on $C$. The simplified shuffle-cube and the balanced shuffle-cube, which are two variants of the shuffle-cube and are superior to shuffle-cube in terms of vertex-transitivity. In this paper, we show that the $n$-dimensional simplified shuffle-cube is vertex-pancyclic for $n\geqslant 6$, and the $n$-dimensional balanced shuffle-cube is vertex-bipancyclic for $n\geqslant 2$.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

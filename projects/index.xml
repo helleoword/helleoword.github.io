@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on </title>
-    <link>https://helleoword.github.io/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2024 09:53:42 +0200</lastBuildDate>
-    <atom:link href="https://helleoword.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Radity Finance - UI Kit</title>
-      <link>https://helleoword.github.io/projects/radity-finance-uikit/</link>
+      <title>Handwritten digit recognition based on Softmax</title>
+      <link>http://localhost:1313/projects/handwritten-digit-recognition-based-on-softmax/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://helleoword.github.io/projects/radity-finance-uikit/</guid>
-      <description>&lt;p&gt;We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/handwritten-digit-recognition-based-on-softmax/</guid>
+      <description>&lt;p&gt;The objective of this task is to apply the Softmax function for the classification of handwritten digit data. We utilized gradient descent as the optimization algorithm to iteratively update the model parameters, and cross-entropy loss as the metric to assess the performance of the model. After training, we visualized the results of the iterative process and evaluated the model&amp;rsquo;s performance on test images. The model was trained for 2000 iterations, achieving a test accuracy of 93.4%. The implementation was carried out in Python.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Robo Advisor</title>
-      <link>https://helleoword.github.io/projects/robo-advisor/</link>
+      <title>Handwritten digit recognition for digits 0 and 1 based on logistic regression</title>
+      <link>http://localhost:1313/projects/handwritten-digit-recognition-for-digits-0-and-1-based-on-logistic-regression/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://helleoword.github.io/projects/robo-advisor/</guid>
-      <description>&lt;p&gt;Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/handwritten-digit-recognition-for-digits-0-and-1-based-on-logistic-regression/</guid>
+      <description>&lt;p&gt;We utilized the Sigmoid function to estimate the probabilities for handwritten digit classification and employed Binary Cross-Entropy Loss (BCELoss) to evaluate the model&amp;rsquo;s performance. Gradient descent was used as the optimization method for iteratively updating the model&amp;rsquo;s parameters. After training, the model was tested on a set of images, achieving a test accuracy of 100%. The entire implementation was done in Python.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Swiss Fintech Website</title>
-      <link>https://helleoword.github.io/projects/swiss-fintech/</link>
+      <title>House price prediction based on linear regression algorithm</title>
+      <link>http://localhost:1313/projects/house-price-prediction-based-on-linear-regression-algorithm/</link>
       <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
-      <guid>https://helleoword.github.io/projects/swiss-fintech/</guid>
-      <description>&lt;p&gt;The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/house-price-prediction-based-on-linear-regression-algorithm/</guid>
+      <description>&lt;p&gt;We formulated a regularized loss function to evaluate the model&amp;rsquo;s performance in predicting house prices, and used batch gradient descent for iterative optimization. The predicted price curve was then compared with the actual house prices to assess the model&amp;rsquo;s accuracy. Overall, the predictions were highly accurate. The final implementation was done in Python.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Image Compression Processing Experiment</title>
+      <link>http://localhost:1313/projects/image-compression-processing-experiment/</link>
+      <pubDate>Sun, 25 Aug 2024 09:53:42 +0200</pubDate>
+      <guid>http://localhost:1313/projects/image-compression-processing-experiment/</guid>
+      <description>&lt;p&gt;We employed two techniques for image compression:&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;&#x9;1. SVD (Singular Value Decomposition): We applied SVD to compress images by decomposing the matrix formed from the image&#39;s RGB values into singular values, U, and V matrices. After reconstruction, we adjusted the ratio of singular values to observe its effect on image quality. The results demonstrated that by retaining 20% of the singular values, we could preserve most of the essential image information, yielding a satisfactory visual outcome.&#xA;&#x9;&#xA;&#x9;2. PCA (Principal Component Analysis): We used PCA for image compression by standardizing the image matrix and selecting principal components that capture the majority of the variance. By ignoring components that contribute less, we achieved compression. Our results indicated that retaining $50$ principal components produced a satisfactory image quality.&#xA;&#x9;&#xA;&#x9;The entire implementation was carried out in Python.&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>

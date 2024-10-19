@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MyFirstblogs on </title>
-    <link>https://helleoword.github.io/myfirstblog/</link>
+    <link>http://localhost:1313/myfirstblog/</link>
     <description>Recent content in MyFirstblogs on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2024 19:27:34 +0800</lastBuildDate>
-    <atom:link href="https://helleoword.github.io/myfirstblog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myfirstblog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://helleoword.github.io/myfirstblog/test/</link>
+      <link>http://localhost:1313/myfirstblog/test/</link>
       <pubDate>Tue, 15 Oct 2024 19:27:34 +0800</pubDate>
-      <guid>https://helleoword.github.io/myfirstblog/test/</guid>
+      <guid>http://localhost:1313/myfirstblog/test/</guid>
       <description></description>
     </item>
   </channel>

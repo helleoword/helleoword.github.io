@@ -1,15 +1,35 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
 <meta name="theme-color" content="#478079" >
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
+  integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3+Aro6EYUG4+cU+KJWu/X" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js"
+  integrity="sha384-g7c+Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI+sEnkvrMWph2EDg4" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js"
+  integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC+Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa" crossorigin="anonymous" onload="renderMathInElement(document.body,
+    {
+              delimiters: [
+                  {left: '$$', right: '$$', display: true},
+                  {left: '\\[', right: '\\]', display: true},
+                  {left: '$', right: '$', display: false},
+                  {left: '\\(', right: '\\)', display: false}
+              ]
+          }
+    );"></script>
+
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 
 
-<title>Demo site for Adritian - a high performance hugo theme by Adrián Moreno</title>
+<title>Yasongliu</title>
 <meta name="description" content="This hugo theme (Adritian) is based on Boostrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.">
 
 
@@ -39,29 +59,27 @@
 
 
  
- 
-     
 
 
 <link
   rel="preload"
-  href="/css/bundle.min.5b31d38979541f368496b8c5d275a8ed73dbd24eb129d427e8f4db681834829c.css"
+  href="/css/bundle.css"
   as="style"
   data-generator="purgeCSS"
   onload="this.onload=null;this.rel='stylesheet'"
-  integrity="sha256-WzHTiXlUHzaElrjF0nWo7XPb0k6xKdQn6PTbaBg0gpw="
+  
 />
 <noscript>
   <link 
     rel="stylesheet" 
-    href="/css/bundle.min.5b31d38979541f368496b8c5d275a8ed73dbd24eb129d427e8f4db681834829c.css"
-    integrity="sha256-WzHTiXlUHzaElrjF0nWo7XPb0k6xKdQn6PTbaBg0gpw="
+    href="/css/bundle.css"
+    
   />
 </noscript>
 
 
 
-<script src='https://helleoword.github.io/js/library/lozad.min.js'></script>
+<script src='http://localhost:1313/js/library/lozad.min.js'></script>
 
  
 
@@ -74,9 +92,9 @@
   <div class="container rad-fade-in">
     <nav class="navbar navbar-expand-lg navbar-light p-0">
       <div class="container-fluid">
-        <a class="navbar-brand mx-auto" href="https://helleoword.github.io/">
-          <span>Cool</span>
-          <span>Name</span>
+        <a class="navbar-brand mx-auto" href="http://localhost:1313/">
+          <span>Yasong</span>
+          <span>Liu</span>
         </a>
         <button
           class="navbar-toggler collapsed"
@@ -92,7 +110,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-lg-auto">
             <li class="nav-item">
-              <a class="nav-link active" href="https://helleoword.github.io/">HOME</a>
+              <a class="nav-link active" href="http://localhost:1313/">HOME</a>
             </li>
             
             <li class="nav-item">
@@ -103,13 +121,13 @@
             
             <li class="nav-item">
               <a data-scroll class="nav-link" href="/#portfolio"
-                >PORTFOLIO</a
+                >PROJECT</a
               >
             </li>
             
             <li class="nav-item">
-              <a data-scroll class="nav-link" href="/blog"
-                >BLOG</a
+              <a data-scroll class="nav-link" href="/research"
+                >RESEARCH</a
               >
             </li>
             
@@ -144,7 +162,7 @@
             
 
             <div class="experience " >
-              <a href="https://helleoword.github.io/experience/job-3/">
+              <a href="http://localhost:1313/experience/job-3/">
                 
                 <div class="experience__date">2024-now</div>
                 <div class="experience__title">Job #3</div>
@@ -159,7 +177,7 @@
             
 
             <div class="experience " >
-              <a href="https://helleoword.github.io/experience/job-2/">
+              <a href="http://localhost:1313/experience/job-2/">
                 
                 <div class="experience__date">2023-2024</div>
                 <div class="experience__title">Job #2</div>
@@ -174,14 +192,14 @@
             
 
             <div class="experience  selected " >
-              <a href="https://helleoword.github.io/experience/job-1/">
+              <a href="http://localhost:1313/experience/job-1/">
                 
-                <div class="experience__date">2022-2024</div>
+                <div class="experience__date">2019-2021</div>
                 <div class="experience__title">Job #1</div>
                 <div class="experience__company">
-                  Internet Affairs Inc. .
+                  YUNDA EXPRESS. .
                   <span class="experience__location"
-                    >Stavanger, Norway</span
+                    >Shanghai, China</span
                   >
                 </div>
               </a>
@@ -201,13 +219,13 @@
   <div class="container">
     <div class="footer__left">
       <div class="footer__copy">
-        © Adritian. Free Hugo theme by Adrián Moreno Peña.
+        
       </div>
     </div>
     <div class="footer__links">
       <ul class="navbar-nav ">
         <li class="nav-item">
-            <a class="nav-link" href="https://helleoword.github.io/">🏠 HOME</a>
+            <a class="nav-link" href="http://localhost:1313/">🏠 HOME</a>
         </li>
         
         <li class="nav-item">
@@ -215,11 +233,15 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="/#portfolio">PORTFOLIO</a>
+          <a class="nav-link" href="/#portfolio">PROJECT</a>
         </li>
         
         <li class="nav-item">
           <a class="nav-link" href="/#contact">CONTACT</a>
+        </li>
+        
+        <li class="nav-item">
+          <a class="nav-link" href="/research">RESEARCH</a>
         </li>
         
       </ul>
@@ -242,11 +264,11 @@
     }
   });
 </script>
-<script defer src='https://helleoword.github.io/js/rad-animations.js'></script>
-<script defer src='https://helleoword.github.io/js/library/smooth-scroll.polyfills.min.js'></script>
-<script defer src='https://helleoword.github.io/js/sticky-header.js'></script>
-<script defer src='https://helleoword.github.io/js/smooth-scroll-init.js'></script>
-<script defer src='https://helleoword.github.io/js/library/bootstrap.min.js'></script>
+<script defer src='http://localhost:1313/js/rad-animations.js'></script>
+<script defer src='http://localhost:1313/js/library/smooth-scroll.polyfills.min.js'></script>
+<script defer src='http://localhost:1313/js/sticky-header.js'></script>
+<script defer src='http://localhost:1313/js/smooth-scroll-init.js'></script>
+<script defer src='http://localhost:1313/js/library/bootstrap.min.js'></script>
 
   </body>
 </html>
